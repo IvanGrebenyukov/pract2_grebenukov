@@ -1,0 +1,4 @@
+﻿  Project2.cpp
+C:\Users\307-11\Desktop\Grebenukov\Project2\Project2.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\307-11\Desktop\Grebenukov\Project2\Project2.cpp(29,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\307-11\Desktop\Grebenukov\Project2\x64\Debug\Project2.exe
